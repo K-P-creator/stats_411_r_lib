@@ -8,5 +8,5 @@ install.packages("devtools")
 ## install and enable lib
 ```R
 devtools::install_github("K-P-creator/stats_411_r_lib")
-library(stat411-k-p)
+library(stat411kp)
 ```
